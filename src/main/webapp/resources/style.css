@@ -1,0 +1,18 @@
+html {
+	background: url(/examapp/resources/funky-seamless-purple-patterns2.jpg) #44f fixed;
+}
+
+body {
+	font: small/1.6em Verdana, Helvetica, Arial, sans-serif;
+	width: 60%;
+	margin-left: 20%;
+	padding: 20px;
+	border: dashed black 1px;
+	background: url(/examapp/resources/bgr_body.png);
+}
+
+table,th,td
+{
+    border:1px solid black;
+    border-collapse:collapse
+}
